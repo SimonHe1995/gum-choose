@@ -1,6 +1,6 @@
 {
   "name": "gum-choose",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "packageManager": "pnpm@6.32.3",
   "description": "gum-choose is to resolve that gum choose variable bugs",
   "author": "Simon He",
